@@ -1,6 +1,11 @@
-# README
+# PearlHacks 2020
 
 PantryPalsAn app made with flutter used to coordinate shopping needs amongst a house of roommate
+
+Example:
+<p align="center">
+  <img src="banner.png" width="700px"/>
+</p>
 
 # Functionality
 Ability to log in as a user in a house
