@@ -2,7 +2,7 @@
 
 PantryPalsAn app made with flutter used to coordinate shopping needs amongst a house of roommate
 
-Example:
+# Example:
 <p align="center">
   <img src="banner.png" width="700px"/>
 </p>
